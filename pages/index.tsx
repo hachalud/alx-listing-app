@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 
 export default function Home() {
   return (
-    <main className="min-h-screen p-8 flex flex-col items-center justify-center">
-      <h1 className="text-4xl font-bold">
+    <main className="min-h-screen p-8 ">
+      <h1 className="text-4xl font-bold bgc">
         ALX Listing App
       </h1>
       <Image
