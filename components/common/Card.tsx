@@ -26,7 +26,7 @@ export const Card: React.FC<CardProps> = ({
 
       {/* Property Details */}
       <div className="p-4">
-        <div className="flex justify-between items-start mb-1">
+        <div className="flex justify-between items-start mb-1 bg-blend-color">
           <h3 className="font-semibold text-gray-900 truncate pr-2 flex-1">{location}</h3>
           <div className="flex items-center space-x-1 text-sm text-gray-700">
             <span>★</span>
